@@ -2,7 +2,7 @@
 
 **ABOUT ME**
 
-| Years | Description |
+| Age | Description |
 | ----------- | ----------- |
 | 14| learned about python |
 | 15 | learned nothing |
